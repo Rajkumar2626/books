@@ -1,2 +1,1 @@
-# books
-Best Seller Books project
+## React Projects Starter APP
